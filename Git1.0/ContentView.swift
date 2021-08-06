@@ -65,3 +65,12 @@ struct ImageView: View {
     }
 }
 
+struct home: View {
+    var body: some View {
+        VStack {
+            Text("Recuperate")
+            Text("Pronto que te")
+            Text("Extraño")
+        }
+    }
+}
