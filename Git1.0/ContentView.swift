@@ -65,7 +65,7 @@ struct ImageView: View {
     }
 }
 
-struct home: View {
+struct home11wer: View {
     var body: some View {
         VStack {
             Text("Recuperate")
