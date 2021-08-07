@@ -20,3 +20,6 @@ struct ContentView_Previews: PreviewProvider {
     }
 }
 
+struct model {
+    var asd = ""
+}
