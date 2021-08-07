@@ -19,3 +19,12 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+struct home2: View {
+    var body: some View {
+        HStack {
+            Text("hola")
+            Text("hola")
+            Text("hola")
+        }
+    }
+}
