@@ -65,7 +65,7 @@ struct ImageView: View {
     }
 }
 
-struct home11wer: View {
+struct home11werrtth: View {
     var body: some View {
         VStack {
             Text("Recuperate")
@@ -73,4 +73,9 @@ struct home11wer: View {
             Text("Extraño")
         }
     }
+}
+struct home1 {
+    var dada = ""
+    var idd = 10
+    var usdfu = false
 }
